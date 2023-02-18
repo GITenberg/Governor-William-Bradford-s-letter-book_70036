@@ -1,0 +1,31 @@
+_repo: Governor-William-Bradford-s-letter-book_70036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradford, William
+    birthdate: 1590
+    deathdate: 1657
+    gutenberg_agent_id: '26830'
+    url: http://www.gutenberg.org/2009/agents/26830
+    wikipedia: https://en.wikipedia.org/wiki/William_Bradford_(governor)
+description: ''
+gutenberg_issued: '2023-02-13'
+identifiers:
+  gutenberg: '70036'
+language: en
+pgterms:marc904: https://archive.org/details/governorwilliam00bradgoog/page/n8/mode/2up
+pgterms:marc905: 20211011050217bradford
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Steve Mattern, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Massachusetts Society of Mayflower Descendants,
+  $c1906, reprint 2000.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Governor William Bradford's letter book
+url: http://www.gutenberg.org/ebooks/70036
